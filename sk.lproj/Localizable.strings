@@ -1,4 +1,4 @@
-{
+
 	// Shown at the top right of the banner
 	"NOW" = "teraz";
 
@@ -23,4 +23,3 @@
 	//New settings
 	// Text shown when privacy is enabled
 	"CONTENT_HIDDEN" = "skrytý obsah";
-}
