@@ -1,0 +1,26 @@
+{
+	// Shown at the top right of the banner
+	"NOW" = "Ngay bây giờ *. Hiển thị ở trên cùng phía bên phải của biểu ngữ";
+
+	// The text shown on the snooze button for an alarm
+	"SNOOZE" = "Thêm chút thời gian *. Nội dung hiển thị trên nút báo lại của báo thức";
+
+	// The text shown on the stop button for an alarm
+	"STOP" = "Ngừng *. Nội dung hiển thị trên nút dừng của báo thức";
+
+	// The text shown on the close button
+	"CLOSE" = "Đóng *. Nội dung hiển thị trên nút đóng";
+
+	// The text shown on the clear button
+	"CLEAR" = "Xóa *. Nội dung hiển thị trên nút xóa";
+
+	// The text shown on the reply button
+	"REPLY" = "Trả lời *. Nội dung hiển thị trên nút trả lời";
+
+	// The text shown on the open button
+	"OPEN" = "Mở *. Nội dung hiển thị trên nút mở";
+
+	//New settings
+	// Text shown when privacy is enabled
+	"CONTENT_HIDDEN" = "Nội dung ẩn *. Nội dung hiển thị khi quyền riêng tư được bật";
+}

@@ -1,0 +1,26 @@
+{
+	// Shown at the top right of the banner
+	"NOW" = "agora";
+
+	// The text shown on the snooze button for an alarm
+	"SNOOZE" = "soneca";
+
+	// The text shown on the stop button for an alarm
+	"STOP" = "parar";
+
+	// The text shown on the close button
+	"CLOSE" = "fechar";
+
+	// The text shown on the clear button
+	"CLEAR" = "limpar";
+
+	// The text shown on the reply button
+	"REPLY" = "responder";
+
+	// The text shown on the open button
+	"OPEN" = "abrir";
+
+	//New settings
+	// Text shown when privacy is enabled
+	"CONTENT_HIDDEN" = "Conteúdo oculto";
+}

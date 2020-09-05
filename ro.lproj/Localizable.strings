@@ -1,0 +1,26 @@
+{
+	// Shown at the top right of the banner
+	"NOW" = "acum";
+
+	// The text shown on the snooze button for an alarm
+	"SNOOZE" = "amână";
+
+	// The text shown on the stop button for an alarm
+	"STOP" = "stop";
+
+	// The text shown on the close button
+	"CLOSE" = "închide";
+
+	// The text shown on the clear button
+	"CLEAR" = "șterge";
+
+	// The text shown on the reply button
+	"REPLY" = "răspunde";
+
+	// The text shown on the open button
+	"OPEN" = "deschide";
+
+	//New settings
+	// Text shown when privacy is enabled
+	"CONTENT_HIDDEN" = "conținut ascuns";
+}

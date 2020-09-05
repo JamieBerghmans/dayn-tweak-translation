@@ -1,0 +1,26 @@
+{
+	// Shown at the top right of the banner
+	"NOW" = "Şimdi";
+
+	// The text shown on the snooze button for an alarm
+	"SNOOZE" = "Ertele";
+
+	// The text shown on the stop button for an alarm
+	"STOP" = "Durdur";
+
+	// The text shown on the close button
+	"CLOSE" = "Kapat";
+
+	// The text shown on the clear button
+	"CLEAR" = "Temizle";
+
+	// The text shown on the reply button
+	"REPLY" = "Yanıtla";
+
+	// The text shown on the open button
+	"OPEN" = "Aç";
+
+	//New settings
+	// Text shown when privacy is enabled
+	"CONTENT_HIDDEN" = "İçeriği Gizle";
+}

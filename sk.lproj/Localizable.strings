@@ -1,0 +1,26 @@
+{
+	// Shown at the top right of the banner
+	"NOW" = "teraz";
+
+	// The text shown on the snooze button for an alarm
+	"SNOOZE" = "odložiť";
+
+	// The text shown on the stop button for an alarm
+	"STOP" = "zastaviť";
+
+	// The text shown on the close button
+	"CLOSE" = "uzavrieť";
+
+	// The text shown on the clear button
+	"CLEAR" = "vyčistiť";
+
+	// The text shown on the reply button
+	"REPLY" = "odpovedať";
+
+	// The text shown on the open button
+	"OPEN" = "otvoriť";
+
+	//New settings
+	// Text shown when privacy is enabled
+	"CONTENT_HIDDEN" = "skrytý obsah";
+}

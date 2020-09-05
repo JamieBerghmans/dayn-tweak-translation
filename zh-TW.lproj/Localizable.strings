@@ -1,0 +1,26 @@
+{
+	// Shown at the top right of the banner
+	"NOW" = "現在";
+
+	// The text shown on the snooze button for an alarm
+	"SNOOZE" = "暫停";
+
+	// The text shown on the stop button for an alarm
+	"STOP" = "停止";
+
+	// The text shown on the close button
+	"CLOSE" = "關閉";
+
+	// The text shown on the clear button
+	"CLEAR" = "清除";
+
+	// The text shown on the reply button
+	"REPLY" = "回覆";
+
+	// The text shown on the open button
+	"OPEN" = "打開";
+
+	//New settings
+	// Text shown when privacy is enabled
+	"CONTENT_HIDDEN" = "已隱藏內容";
+}

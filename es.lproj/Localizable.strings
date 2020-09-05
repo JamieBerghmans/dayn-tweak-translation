@@ -1,0 +1,26 @@
+{
+	// Shown at the top right of the banner
+	"NOW" = "Now";
+
+	// The text shown on the snooze button for an alarm
+	"SNOOZE" = "Dormitar";
+
+	// The text shown on the stop button for an alarm
+	"STOP" = "Parar";
+
+	// The text shown on the close button
+	"CLOSE" = "Cerrar";
+
+	// The text shown on the clear button
+	"CLEAR" = "Limpiar";
+
+	// The text shown on the reply button
+	"REPLY" = "Responder";
+
+	// The text shown on the open button
+	"OPEN" = "Abrir";
+
+	//New settings
+	// Text shown when privacy is enabled
+	"CONTENT_HIDDEN" = "Contenido oculto";
+}

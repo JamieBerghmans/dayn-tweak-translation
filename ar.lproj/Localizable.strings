@@ -1,0 +1,26 @@
+{
+	// Shown at the top right of the banner
+	"NOW" = "الان";
+
+	// The text shown on the snooze button for an alarm
+	"SNOOZE" = "غفوة";
+
+	// The text shown on the stop button for an alarm
+	"STOP" = "إيقاف";
+
+	// The text shown on the close button
+	"CLOSE" = "الغاء";
+
+	// The text shown on the clear button
+	"CLEAR" = "مسح";
+
+	// The text shown on the reply button
+	"REPLY" = "الرد";
+
+	// The text shown on the open button
+	"OPEN" = "فتح";
+
+	//New settings
+	// Text shown when privacy is enabled
+	"CONTENT_HIDDEN" = "المحتوى مخفي";
+}
