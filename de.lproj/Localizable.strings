@@ -1,11 +1,11 @@
 	// Shown at the top right of the banner
 "NOW" = "jetzt";
 	// The text shown on the snooze button for an alarm
-"SNOOZE" = "Snooze";
+"SNOOZE" = "Schlummern";
 	// The text shown on the stop button for an alarm
 "STOP" = "Stop";
 	// The text shown on the close button
-"CLOSE" = "Schliessen";
+"CLOSE" = "Schließen";
 	// The text shown on the clear button
 "CLEAR" = "Löschen";
 	// The text shown on the reply button
